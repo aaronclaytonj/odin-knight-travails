@@ -1,4 +1,6 @@
+# frozen_string_literal: true
+
 require_relative 'knight'
 
 knight = Knight.new
-knight.knight_move([0,0],[7,7])
+knight.knight_move([0, 0], [7, 7])
